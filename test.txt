@@ -1,4 +1,9 @@
 this is my first git.
 git second.
 
+
 this is first main..
+
+public static void main(String[] args){
+.........
+}
